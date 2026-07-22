@@ -12,8 +12,8 @@ de resposta positiva a uma campanha.
 
 - **Power BI Desktop**
 - **DAX** (medidas de conversão, médias e totais)
-- **Árvore de Decomposição (Decomposition Tree)** — quebra de gasto total por estado civil e escolaridade
-- **Gráfico de dispersão** — relação entre salário anual e gasto total
+- **Árvore de Decomposição (Decomposition Tree)** quebra de gasto total por estado civil e escolaridade
+- **Gráfico de dispersão**  relação entre salário anual e gasto total
 - Segmentação por filtros (país, estado civil, escolaridade, filhos/adolescentes em casa)
 
 ## 📐 Estrutura do Dashboard
@@ -32,8 +32,8 @@ de resposta positiva a uma campanha.
 - A árvore de decomposição mostrou que clientes **solteiros com curso superior** concentram o
   maior gasto entre os segmentos analisados: **R$ 364 mil** dos **R$ 1.205 mil** em gasto total.
 - A taxa de resposta às campanhas foi de aproximadamente **16%** (320 de 1.999 clientes).
-- Clientes que **responderam positivamente** à campanha têm salário médio **~16% maior**
-  (R$ 59 mil) do que os que não responderam (R$ 51 mil) — indicando que renda é um fator
+- Clientes que **responderam positivamente** à campanha têm salário médio **16% maior**
+  (R$ 59 mil) do que os que não responderam (R$ 51 mil)  indicando que renda é um fator
   relevante de propensão à conversão.
 - Na visão geográfica, os **Estados Unidos** concentram o maior volume de gasto entre os
   7 países analisados, com tendência de crescimento entre 2018 e 2023.
@@ -54,11 +54,9 @@ de resposta positiva a uma campanha.
 
 ## 📁 Sobre os Dados
 
-> ⚠️ *Substitua este trecho pela fonte real dos dados (ex: dataset de curso, dataset público do
-> Kaggle — este formato é muito parecido com o "Marketing Campaign Dataset" popular em cursos
-> de BI — ou dados fictícios). Deixe a fonte explícita para transparência com quem avaliar o projeto.*
+> Os  dados  foram  extraídosdo  portal  da  Nasdaq https://www.nasdaq.com/
 
 ## 👤 Autor
 
 **Caio Regallo** — Analista de Dados Júnior | Business Intelligence
-[LinkedIn](#) · [Portfólio](#)
+[[LinkedIn](https://www.linkedin.com/in/caio-regallo-a2366516b/)](#) · [[Portfólio](https://github.com/caioregallo/portfolio-powerbi/)](#)
