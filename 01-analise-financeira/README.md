@@ -33,7 +33,7 @@ resultado financeiro, além de segmentar registros por perfil de valor.
 
 ## 📁 Sobre os Dados
 
-> ⚠️ Os  dados  foram  extraídosdo  portal  da  Nasdaq 
+> Os  dados  foram  extraídosdo  portal  da  Nasdaq 
 Os  dados  foram  extraídosdo  portal  da  Nasdaq 
 https://www.nasdaq.com/
 
