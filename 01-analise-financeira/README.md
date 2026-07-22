@@ -33,9 +33,9 @@ resultado financeiro, além de segmentar registros por perfil de valor.
 
 ## 📁 Sobre os Dados
 
-> ⚠️ *Substitua este trecho pela fonte real dos dados (ex: dataset de curso, dataset público do
-> Kaggle, dados fictícios gerados para fins de estudo). Se os dados forem sintéticos, deixe isso
-> explícito aqui para transparência com quem for avaliar o projeto.*
+> ⚠️ Os  dados  foram  extraídosdo  portal  da  Nasdaq 
+Os  dados  foram  extraídosdo  portal  da  Nasdaq 
+https://www.nasdaq.com/
 
 ## 👤 Autor
 
