@@ -40,4 +40,4 @@ https://www.nasdaq.com/
 ## 👤 Autor
 
 **Caio Regallo** — Analista de Dados Júnior | Business Intelligence
-[LinkedIn](#) · [Portfólio](#)
+[[LinkedIn](https://www.linkedin.com/in/caio-regallo-a2366516b/)](#) · [[Portfólio](https://github.com/caioregallo/portfolio-powerbi)](#)
