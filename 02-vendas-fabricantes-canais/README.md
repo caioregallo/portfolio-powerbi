@@ -56,11 +56,9 @@ e vendedor — apoiando decisões de mix de produto e alocação de força de ve
 
 ## 📁 Sobre os Dados
 
-> ⚠️ *Substitua este trecho pela fonte real dos dados (ex: dataset de curso, dataset público do
-> Kaggle, dados fictícios gerados para fins de estudo). Se os dados forem sintéticos, deixe isso
-> explícito aqui para transparência com quem for avaliar o projeto.*
+> Os dados foram extraídos do portal da Nasdaq Os dados foram extraídos do portal da Nasdaq https://www.nasdaq.com/
 
 ## 👤 Autor
 
 **Caio Regallo** — Analista de Dados Júnior | Business Intelligence
-[LinkedIn](#) · [Portfólio](#)
+[[LinkedIn](https://www.linkedin.com/in/caio-regallo-a2366516b/)](#) · [[Portfólio](https://github.com/caioregallo/portfolio-powerbi)](#)
