@@ -1,4 +1,4 @@
-# 📊 Análise de Vendas — Fabricantes e Canais
+# 📊 Análise de Vendas | Fabricantes e Canais
 
 > Dashboard de vendas por fabricante, segmento e canal, com narrativa e segmentação geradas por IA.
 
@@ -6,7 +6,7 @@
 
 Analisar o desempenho de vendas de uma rede de eletrodomésticos/eletrônicos por fabricante,
 segmento de cliente (Doméstico, Corporativo, Industrial), categoria de produto, ponto de venda
-e vendedor — apoiando decisões de mix de produto e alocação de força de vendas.
+e vendedor  apoiando decisões de mix de produto e alocação de força de vendas.
 
 ## 🛠️ Ferramentas e Técnicas
 
@@ -14,7 +14,7 @@ e vendedor — apoiando decisões de mix de produto e alocação de força de ve
 - **DAX** (totais, percentuais e variação entre fabricantes)
 - **Narrativa Inteligente (Smart Narrative)**  texto gerado automaticamente por IA a partir dos dados
 - **Principais Influenciadores / Segmentos (Key Influencers)**  IA para identificar o que eleva o valor de venda
-- **Gráfico de Fluxo (Sankey)** — decomposição de vendas por categoria e loja
+- **Gráfico de Fluxo (Sankey)** decomposição de vendas por categoria e loja
 - **Mapa** — distribuição geográfica de vendas por estado e vendedor
 
 ## 📐 Estrutura do Dashboard
