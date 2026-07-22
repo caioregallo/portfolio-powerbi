@@ -12,8 +12,8 @@ e vendedor — apoiando decisões de mix de produto e alocação de força de ve
 
 - **Power BI Desktop**
 - **DAX** (totais, percentuais e variação entre fabricantes)
-- **Narrativa Inteligente (Smart Narrative)** — texto gerado automaticamente por IA a partir dos dados
-- **Principais Influenciadores / Segmentos (Key Influencers)** — IA para identificar o que eleva o valor de venda
+- **Narrativa Inteligente (Smart Narrative)**  texto gerado automaticamente por IA a partir dos dados
+- **Principais Influenciadores / Segmentos (Key Influencers)**  IA para identificar o que eleva o valor de venda
 - **Gráfico de Fluxo (Sankey)** — decomposição de vendas por categoria e loja
 - **Mapa** — distribuição geográfica de vendas por estado e vendedor
 
@@ -28,7 +28,7 @@ e vendedor — apoiando decisões de mix de produto e alocação de força de ve
 
 ## 🔍 Principais Insights
 
-- Entre **12 fabricantes**, a **Brastemp** lidera com **R$ 92,8 mil** em vendas —
+- Entre **12 fabricantes**, a **Brastemp** lidera com **R$ 92,8 mil** em vendas 
   **25,82% do total** e **1.286,94% acima** do fabricante com menor volume (Electrolux, R$ 6,69 mil).
 - Segmento **Doméstico** concentra a maior parte das vendas (R$ 256,8 mil), seguido de
   Corporativo (R$ 89,95 mil) e Industrial (R$ 12,56 mil).
