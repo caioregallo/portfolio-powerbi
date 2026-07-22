@@ -36,7 +36,7 @@ e vendedor  apoiando decisões de mix de produto e alocação de força de venda
   Eletrônicos (R$ 48,33 mil) e Eletroportáteis (R$ 19,06 mil).
 - A análise de influenciadores (IA) mostrou que vendas no segmento **Corporativo** elevam o
   valor médio de venda para **R$ 1,55 mil** e na categoria **Celulares** para **R$ 1,46 mil**
-  — ambos acima da média geral de R$ 647,49.
+   ambos acima da média geral de R$ 647,49.
 - O mapa por estado revelou concentração de vendas em **São Paulo** (3 vendedores atuando) e
   **Rio de Janeiro** (1 vendedor).
 
