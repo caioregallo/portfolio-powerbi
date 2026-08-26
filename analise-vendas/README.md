@@ -53,10 +53,10 @@ Apresentação
 
 Inicialmente foram analisadas as tabelas disponíveis e suas estruturas, identificando os principais campos e relacionamentos entre:
 
-* Vendas
-* Pedidos
-* Produtos
-* Clientes
+Vendas
+Pedidos
+Produtos
+Clientes
 
 Também foram realizadas verificações de quantidade de registros, clientes e relacionamentos entre as tabelas.
 
@@ -90,7 +90,7 @@ Faturamento Total: R$ 8,39 milhões
 Total de Pedidos: aproximadamente 30 mil
 Total de Clientes: 1.463
 Ticket Médio: R$ 279,66
-Total de Vendas:** aproximadamente 108,92 mil unidades
+Total de Vendas: aproximadamente 108,92 mil unidades
 
 Análises apresentadas
 
@@ -153,5 +153,5 @@ Autor
 
 Caio Regallo
 
-Projeto desenvolvido para portfólio na área de **Análise de Dados / Business Intelligence**.
+Projeto desenvolvido para portfólio na área de Análise de Dados / Business Intelligence.
 
