@@ -116,7 +116,7 @@ Também foi possível identificar os clientes e produtos que mais contribuem par
 
 Dashboard
 
-![Dashboard de Vendas](Imagens/dashboard.png)
+![Dashboard de Vendas](Image_dashboard.png)
 
 ---
 
